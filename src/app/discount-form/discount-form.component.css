@@ -1,0 +1,23 @@
+.icon-opacity {
+    opacity: 0.5;
+}
+
+.alert-invalid {
+    border: 2px solid #8F000F;
+    border-radius: 5px;
+    color: #8F000F;
+    padding: 5px;
+}
+
+.alert-valid {
+    border: 2px solid green;
+    border-radius: 5px;
+    color: green;
+    padding: 5px;
+}
+
+input[readonly] {
+  background-color:transparent;
+  border: 0;
+  box-shadow: none;
+}
